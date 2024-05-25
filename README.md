@@ -1,6 +1,7 @@
 # Hi there, I'm Derek Hartman! 👋
 
 ![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green)
 
 ## About Me 🚀
 
