@@ -32,7 +32,7 @@ I'm a passionate Cybersecurity Engineer with experience in Identity and Powershe
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**([your_website_or_blog_link](https://dereksysadmin.wordpress.com))
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/derek-hartman-69a7a94a/))
+- **[Personal Website / Blog]**(https://dereksysadmin.wordpress.com)
+- **[LinkedIn]**(https://www.linkedin.com/in/derek-hartman-69a7a94a/)
 
 
