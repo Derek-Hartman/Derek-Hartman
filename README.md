@@ -26,13 +26,11 @@ I'm a passionate Cybersecurity Engineer with experience in Identity and Powershe
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [PowerNiceinContact](https://github.com/Derek-Hartman/PowerNiceinContact)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+**[PowerNiceinContact]** is a **[API Module for Nice Incontact]** built with **[Powershell]**. The main idea for this project is Identity Management and Automation. You can check out the repository [here](https://github.com/Derek-Hartman/PowerNiceinContact).
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
+### [PowerShopify](https://github.com/Derek-Hartman/PowerShopify)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
