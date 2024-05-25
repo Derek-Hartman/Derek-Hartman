@@ -6,6 +6,8 @@
 ![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green)
+![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
+![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
 
 ## About Me 🚀
 
