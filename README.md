@@ -32,7 +32,7 @@ I'm a passionate Cybersecurity Engineer with experience in Identity, Automation,
 
 ### [PowerShopify](https://github.com/Derek-Hartman/PowerShopify)
 
-**[PowerShopify]** is a **[API Module for Shopify]** built with **[Powershell]**. The main idea for this project is Identity Management and Automation. You can check out the repository [here](https://github.com/Derek-Hartman/PowerNiceinContact).
+**[PowerShopify]** is a **[API Module for Shopify]** built with **[Powershell]**. The main idea for this project is Identity Management and Automation. You can check out the repository [here](https://github.com/Derek-Hartman/PowerShopify).
 
 ## Get in Touch 📬
 
