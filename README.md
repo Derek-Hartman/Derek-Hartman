@@ -2,13 +2,13 @@
 
 ![Banner Image](https://media.licdn.com/dms/image/D5616AQG6XoDOCDlXZg/profile-displaybackgroundimage-shrink_350_1400/0/1702047806945?e=1721865600&v=beta&t=CznHBu_hqfMRTbfFSEWPBbSV1Wn9cZmHNGOlUsuATVU)
 
-![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
-![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
 </picture>
+
+-![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
+-![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
 
 ## About Me 🚀
 
