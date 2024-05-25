@@ -12,7 +12,7 @@ I'm a passionate Cybersecurity Engineer with experience in Identity and Powershe
 - 🌱 Currently learning: Powershell Universal
 - 🔭 Working on: Automated Documentation
 - 🌍 Languages: Powershell, Java, Javascript, HTML
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: exLARPER
 
 ## My Skills 🧠
 
