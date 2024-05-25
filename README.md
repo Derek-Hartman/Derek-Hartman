@@ -12,7 +12,7 @@
 - ![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
 - ![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
 - ![GPU](https://img.shields.io/badge/NVIDIA-GTX080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-- ![GPU](https://img.shields.io/badge/NVIDIA-GTX080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![CPU](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 - ![GPU](https://img.shields.io/badge/NVIDIA-GTX080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 - ![GPU](https://img.shields.io/badge/NVIDIA-GTX080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
