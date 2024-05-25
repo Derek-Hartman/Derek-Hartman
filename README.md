@@ -1,6 +1,6 @@
 # Hi there, I'm Derek Hartman! 👋
 
-![Banner Image](your_banner_image_url_here)
+https://img.shields.io/github/stars/Derek-Hartman.svg
 
 ## About Me 🚀
 
