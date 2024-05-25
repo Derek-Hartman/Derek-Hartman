@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Cybersecurity Engineer with experience in Identity and Powershell. I love tackling complex problems and learning new skills to create innovative solutions.
+I'm a passionate Cybersecurity Engineer with experience in Identity, Automation, and Powershell. I love tackling complex problems and learning new skills to create innovative solutions.
 
 - 🌱 Currently learning: Powershell Universal
 - 🔭 Working on: Automated Documentation
