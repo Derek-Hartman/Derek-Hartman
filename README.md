@@ -1,5 +1,7 @@
 # Hi there, I'm Derek Hartman! 👋
 
+![Banner Image](https://media.licdn.com/dms/image/D5616AQG6XoDOCDlXZg/profile-displaybackgroundimage-shrink_350_1400/0/1702047806945?e=1721865600&v=beta&t=CznHBu_hqfMRTbfFSEWPBbSV1Wn9cZmHNGOlUsuATVU)
+
 ![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
 ![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
 
