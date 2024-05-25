@@ -18,6 +18,7 @@ I'm a passionate Cybersecurity Engineer with experience in Identity and Powershe
 
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=Okta&logoColor=white)
 
 ## Featured Projects 💻
 
