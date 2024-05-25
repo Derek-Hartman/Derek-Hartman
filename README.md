@@ -37,6 +37,6 @@ I'm a passionate Cybersecurity Engineer with experience in Identity, Automation,
 ## Get in Touch 📬
 
 - [Personal Website / Blog](https://dereksysadmin.wordpress.com)
-- **[LinkedIn]**(https://www.linkedin.com/in/derek-hartman-69a7a94a/)
+- [LinkedIn](https://www.linkedin.com/in/derek-hartman-69a7a94a/)
 
 
