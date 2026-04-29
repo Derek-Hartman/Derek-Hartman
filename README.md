@@ -19,7 +19,7 @@ I design and build automation layers over Identity & Access Management platforms
 * 🔭 Building: IAM automation frameworks & API abstraction tooling
 * 🌱 Learning: PowerShell Universal & workflow orchestration
 * 🧠 Deep focus: Identity lifecycle automation, SaaS API integration, scalable scripting patterns
-* ⚡ Background: Former LARPer—drawn to complex systems, rulesets, and edge-case logic
+* ⚡ Background: Former LARPer—Still a history nerd
 
 ---
 
