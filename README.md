@@ -1,51 +1,98 @@
-# Hi there, I'm Derek Hartman! 👋
+# Hi, I'm Derek Hartman 👋
 
-![Banner Image](https://media.licdn.com/dms/image/D5616AQG6XoDOCDlXZg/profile-displaybackgroundimage-shrink_350_1400/0/1702047806945?e=1721865600&v=beta&t=CznHBu_hqfMRTbfFSEWPBbSV1Wn9cZmHNGOlUsuATVU)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82ef17c2-73bc-416a-a356-d2ff922978d9" alt="PowerShell Banner" />
+</p>
 
-## Stats ##
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=PowerShell+Automation;Identity+%7C+IAM+%7C+Security+Tooling;Building+APIs+into+Modules" />
+</p>
+
+## Cybersecurity Engineer | Identity & Automation
+
+I design and build automation layers over Identity & Access Management platforms—turning APIs like Okta, NICE CXone, and Shopify into reusable PowerShell modules that standardize workflows, reduce manual administration, and scale identity operations.
+
+---
+
+### ⚙️ Current Focus
+
+* 🔭 Building: IAM automation frameworks & API abstraction tooling
+* 🌱 Learning: PowerShell Universal & workflow orchestration
+* 🧠 Deep focus: Identity lifecycle automation, SaaS API integration, scalable scripting patterns
+* ⚡ Background: Former LARPer—drawn to complex systems, rulesets, and edge-case logic
+
+---
+
+## 🧩 What I Build
+
+I don’t just script APIs—I build **automation layers that sit between humans and identity systems**.
+
+* 🧬 Identity lifecycle automation across Okta & Azure AD
+* 🧰 PowerShell modules that normalize inconsistent SaaS APIs
+* 🔁 Reusable automation patterns for enterprise workflows
+* 🧹 Elimination of repetitive IAM admin tasks through structured tooling
+
+---
+
+## 🛠️ Core Stack
+
+### Identity & Security Engineering
+
+Okta • Azure AD • IAM Lifecycle Systems
+
+### Automation & Integration
+
+PowerShell • REST APIs • Module Architecture
+
+### Platforms
+
+Azure • Cisco • Shopify • SaaS ecosystems
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 PowerNiceinContact
+
+PowerShell module for NICE CXone API automation.
+
+Transforms raw REST API interaction into structured, reusable functions for:
+
+* user management automation
+* reporting workflows
+* administrative operations
+
+➡️ Built to reduce operational friction in contact center identity workflows.
+
+---
+
+### 🔹 PowerShopify
+
+PowerShell module for Shopify API integration.
+
+Provides a structured interface for:
+
+* administrative automation
+* system integration workflows
+* API abstraction for operational tooling
+
+➡️ Designed for repeatable SaaS automation patterns.
+
+---
+
+## 📊 GitHub Activity
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
 </picture>
 
-- ![Stars](https://img.shields.io/github/stars/Derek-Hartman.svg)
-- ![Followers](https://img.shields.io/github/followers/Derek-Hartman.svg?style=social&label=Follow&maxAge=2592000)
-- ![GPU](https://img.shields.io/badge/NVIDIA-GTX_1080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-- ![CPU](https://img.shields.io/badge/Intel-Core_i7_8700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-- ![ISE](https://img.shields.io/badge/Powershell_ISE-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-- ![Maint](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-## About Me 🚀
+---
 
-I'm a passionate Cybersecurity Engineer with experience in Identity, Automation, and Powershell. I love tackling complex problems and learning new skills to create innovative solutions.
+## 📬 Contact
 
-- 🌱 Currently learning: Powershell Universal
-- 🔭 Working on: Automated Documentation
-- 🌍 Languages: Powershell, Java, Javascript, HTML
-- ⚡ Fun fact: exLARPER
+* 🌐 Blog: https://dereksysadmin.wordpress.com
+* 💼 LinkedIn: https://www.linkedin.com/in/derek-hartman-69a7a94a/
 
-## My Skills 🧠
-
-![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=Okta&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white)
-
-## Featured Projects 💻
-
-### [PowerNiceinContact](https://github.com/Derek-Hartman/PowerNiceinContact)
-
-**[PowerNiceinContact]** is a **[API Module for Nice Incontact]** built with **[Powershell]**. The main idea for this project is Identity Management and Automation. You can check out the repository [here](https://github.com/Derek-Hartman/PowerNiceinContact).
-
-### [PowerShopify](https://github.com/Derek-Hartman/PowerShopify)
-
-**[PowerShopify]** is a **[API Module for Shopify]** built with **[Powershell]**. The main idea for this project is Identity Management and Automation. You can check out the repository [here](https://github.com/Derek-Hartman/PowerShopify).
-
-## Get in Touch 📬
-
-- [Personal Website / Blog](https://dereksysadmin.wordpress.com)
-- [LinkedIn](https://www.linkedin.com/in/derek-hartman-69a7a94a/)
-
-
+---
