@@ -80,16 +80,6 @@ Provides a structured interface for:
 
 ---
 
-## 📊 GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Hartman&theme=blue-green&show_icons=true">
-</picture>
-
-
----
-
 ## 📬 Contact
 
 * 🌐 Blog: https://dereksysadmin.wordpress.com
